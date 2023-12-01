@@ -131,7 +131,7 @@ public class ApprovalApp {
     }
 
     private void acceptForm(ActionEvent event) {
-//send email to applicant
+        //send email to applicant
     }
 
     private void returnForm(ActionEvent event) {
